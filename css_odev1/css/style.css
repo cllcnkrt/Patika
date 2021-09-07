@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    background-color: #effdf9;
+}
+h1{
+    
+    color: pink;
+}
+h2{
+    
+    color:purple;
+}
+
+
+h5,h4{
+    
+    color:gold;
+}
+
+ul,ol{
+    
+    list-style-position: inside;
+}
